@@ -4,7 +4,7 @@ import Counter from './components/Counter.vue'
 
 <template>
   <div>
-    <p>start vue js.............</p>
+    <p>Computed Properties.............</p>
   </div>
   <Counter />
 </template>
